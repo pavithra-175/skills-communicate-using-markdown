@@ -9,4 +9,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 var myVar = "Hello, world!";
 
-size of the letter become small  # increases.
+
