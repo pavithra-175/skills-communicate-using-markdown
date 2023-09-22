@@ -5,4 +5,4 @@
 ###### This is an `<h6>` header, which is the smallest
 
 
-size of the letter become smale the # increases.
+size of the letter become small  # increases.
